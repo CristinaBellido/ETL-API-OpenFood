@@ -29,3 +29,5 @@ La función principal une todas las funciones llamando a las funciones de extrac
 El código también incluye algunas visualizaciones con matplotlib para una mejor comprensión de los datos y las comparaciones.
 
 En resumen, este código de Python realiza un proceso completo de ETL utilizando la API de OpenFoodFacts para comparar diferentes marcas de alimentos según varios criterios. Extrae los datos de la API, los transforma limpiando y manipulando los datos, y los carga en un archivo o base de datos para su análisis posterior.
+
+kissy quiere a kira
